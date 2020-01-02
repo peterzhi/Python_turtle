@@ -1,4 +1,4 @@
-# .Python_turtle
+# Python_turtle
 使用Turtle进行简单的图形实时绘制
 
 这是做图可能需要用到的语句：<br>
